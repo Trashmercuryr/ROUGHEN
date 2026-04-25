@@ -1,0 +1,26 @@
+# Ignore cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignore virtual environment
+venv/
+env/
+ENV/
+
+# Ignore logs
+*.log
+logs/
+
+# Ignore config files
+.config
+config.json
+
+# Ignore system files
+.DS_Store
+.env
+.idea/
+.vscode/
+
+# Ignore Termux files
+.termux/
